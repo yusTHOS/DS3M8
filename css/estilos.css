@@ -35,7 +35,7 @@
     font-size:80px
 }
 #menu{
-    background-color: rgb(34, 33, 33);
+    background-color: rgb(77, 73, 73);
     color: aliceblue;
     text-shadow: rgb(0, 0, 0) 1px 0 10px;
     max-width: 800px;
@@ -98,5 +98,5 @@
     margin-bottom: 15px;
 }
 a {
-    color: rgb(29, 27, 27);
+    color: rgb(54, 52, 52);
 }
