@@ -26,6 +26,12 @@
     border-radius: 20px;
 
 }
+<<<<<<< HEAD
+=======
+h1 u{
+    text-shadow: 3px 3px rgb(66, 65, 65);
+}
+>>>>>>> fix
 .boton :hover{
     color: red;
 }
@@ -35,7 +41,11 @@
     font-size:80px
 }
 #menu{
+<<<<<<< HEAD
     background-color: rgb(34, 33, 33);
+=======
+    background-color: rgb(77, 73, 73);
+>>>>>>> fix
     color: aliceblue;
     text-shadow: rgb(0, 0, 0) 1px 0 10px;
     max-width: 800px;
@@ -98,5 +108,9 @@
     margin-bottom: 15px;
 }
 a {
+<<<<<<< HEAD
     color: rgb(29, 27, 27);
+=======
+    color: rgb(128, 128, 128);
+>>>>>>> fix
 }
