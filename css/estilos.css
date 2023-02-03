@@ -26,6 +26,9 @@
     border-radius: 20px;
 
 }
+h1 u{
+    text-shadow: 3px 3px rgb(66, 65, 65);
+}
 .boton :hover{
     color: red;
 }
@@ -98,5 +101,5 @@
     margin-bottom: 15px;
 }
 a {
-    color: rgb(29, 27, 27);
+    color: rgb(128, 128, 128);
 }
